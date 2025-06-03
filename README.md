@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# simulador-simples-investimentos-fiis
-=======
 # Ferramenta Simples de Controle de Investimentos com Excel
 
 Baseado em Fundos Imobiliários (FIIs).
