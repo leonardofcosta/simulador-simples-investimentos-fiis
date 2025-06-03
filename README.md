@@ -26,4 +26,4 @@ No campo **perfil** é possível selecionar o tipo de investidor: Conservador, M
 ### Fontes: 
 * Ajuda do MS-Excel;
 * Videoaulas do curso: Criando uma Ferramenta de Controle de Investimentos com Excel.
->>>>>>> 62d90cf (Commit inicial do Simulador de investimento simples.)
+
